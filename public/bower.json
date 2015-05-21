@@ -1,0 +1,17 @@
+{
+  "name": "laravelGit",
+  "version": "0.0.1",
+  "description": "Contactos telefonicos en Laravel.",
+  "moduleType": [
+    "globals"
+  ],
+  "authors": [
+    "David Rodriguez Caldera"
+  ],
+  "license": "MIT",
+  "homepage": "contactos.app",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "bootstrap-material-design": "~0.2.2"
+  }
+}
